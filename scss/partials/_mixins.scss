@@ -1,0 +1,13 @@
+@mixin flex{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+@mixin letrasparrafo{
+    color: white;
+    font-family: 'Playpen Sans', cursive;
+}
+@mixin letrastitulo{
+    color: red;
+    font-family: 'Rubik Bubbles', cursive;
+}
